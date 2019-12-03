@@ -11,7 +11,7 @@ public class Main {
 		System.out.println("Insira o segundo numero :");
 		int b = sc.nextInt();
 		System.out.println("Valor a : "+ a + " Valor b : " + b);
-		
+		System.out.println("#");
 	
     }
 	}
