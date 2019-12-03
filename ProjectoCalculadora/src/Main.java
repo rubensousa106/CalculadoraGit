@@ -21,13 +21,23 @@ public class Main {
 		int op=0;;
 		switch (op) {
 		case 1:
-			ClasseSoma.class.c
+			System.out.println(ClasseSoma.soma(a, b));
 	       break;
        
         
                 
         default: break;
     }
+		
+		do {
+            op = sc.nextInt();
+            switch (op) {
+            case 1:
+    			System.out.println(ClasseSoma.soma(a, b));
+    	       break;
+        
+            } 
+        } while (op<4); // end of loop
 		
 		
 	}

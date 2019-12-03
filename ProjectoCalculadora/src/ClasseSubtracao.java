@@ -1,7 +1,7 @@
 
 public class ClasseSubtracao {
 	
-	public int subtrair(int a, int b) {
+	public static int subtrair(int a, int b) {
 		return a-b;
 	}
 

@@ -1,7 +1,7 @@
 
 public class ClasseDivisao {
 	
-	public int dividir (int a, int b) {
+	public static float dividir (int a, int b) {
 		return a/b;
 	}
 

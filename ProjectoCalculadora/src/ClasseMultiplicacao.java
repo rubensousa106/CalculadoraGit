@@ -1,6 +1,6 @@
 
 public class ClasseMultiplicacao {
-	public int multiplicar (int a, int b) {
+	public static int multiplicar (int a, int b) {
 		return a*b;
 	}
 
