@@ -13,13 +13,21 @@ public class Main {
 		int b = sc.nextInt();
 		System.out.println("Valor a : " + a + " Valor b : " + b);
 		
-		System.out.println("**Escolha o tipo de operação _: **");
+		System.out.println("**Escolha o tipo de operação : **");
 		System.out.println("1 - Adiçao");
 		System.out.println("2 - Subtração");
 		System.out.println("3 - Multiplicação");
 		System.out.println("4 - Divisão");
-		
-		
+		int op=0;;
+		switch (op) {
+		case 1:
+			ClasseSoma.class.c
+	       break;
+       
+        
+                
+        default: break;
+    }
 		
 		
 	}
