@@ -35,7 +35,9 @@ public class Main {
             case 1:
     			System.out.println(ClasseSoma.soma(a, b));
     	       break;
-        
+            case 2:
+    			System.out.println(ClasseSubtracao.subtrair(a, b));
+    	       break;
             } 
         } while (op<4); // end of loop
 		
