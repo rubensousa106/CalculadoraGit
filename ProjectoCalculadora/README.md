@@ -11,7 +11,7 @@ This project is a straightforward calculator created to practice Java programmin
 
 ## Installation
 
-To run the calculator, you will need to have the Java Development Kit (JDK) installed on your machine. Follow these steps to set up the environment:
+To runa the calculator, you will need to have the Java Development Kit (JDK) installed on your machine. Follow these steps to set up the environment:
 
 1. **Clone the repository:**
 
